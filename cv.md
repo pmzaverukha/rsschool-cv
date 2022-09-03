@@ -18,7 +18,7 @@ Strong analytical and troubleshooting skills. </p>
  </ul>
  
  <h2>Code Example</h2>
-```javascript
+
 function highAndLow(numbers){
          
             let arrayNumbers = numbers.split(" ");
@@ -32,7 +32,7 @@ function highAndLow(numbers){
             return (highNumbers  + " " + lowNumbers);
 
 };
-```
+
 
 <h2>Education</h2>
 <p>2005-2010 : Ternopil National Economic University (Ukraine)</p>
