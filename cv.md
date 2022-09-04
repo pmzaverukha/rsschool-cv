@@ -53,7 +53,7 @@ function highAndLow(numbers){
 
 
 <h2>Experience<h2>
-<p></p><u>Nothing yet…</u></p>
+<p><u>Nothing yet…</u></p>
 
 
 
