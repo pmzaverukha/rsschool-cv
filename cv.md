@@ -59,7 +59,7 @@ function highAndLow(numbers){
 
 <h2>Languages</h2>
  <ul>
-   <li >English - A2 (B1 in process…)</li>
+   <li >English - Pre-Intermediate (Intermediate in process…)</li>
    <li >Ukraine -  Native </li>
    <li >Russian -  Intermediate </li>
  </ul>
