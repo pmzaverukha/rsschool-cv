@@ -27,7 +27,8 @@ Strong analytical and troubleshooting skills. </p>
  </ul>
  
  <h2>Code Example</h2>
-```
+
+<pre>
 function highAndLow(numbers){
          
             let arrayNumbers = numbers.split(" ");
@@ -41,7 +42,7 @@ function highAndLow(numbers){
             return (highNumbers  + " " + lowNumbers);
 
 };
-```
+</pre>
 
 <h2>Education</h2>
  <ul>
